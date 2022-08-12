@@ -11,3 +11,9 @@ For machine learning training
 [HW3-3]https://github.com/Owen-Lin0707/IMLP360/blob/main/6_scikit_learn_Basic_%E5%AF%A6%E6%88%B0.ipynb
 
 [HW4]https://github.com/Owen-Lin0707/IMLP360/blob/main/Linear%20Regression_HW.ipynb
+
+[HW5]
+[LogisticRegression]https://github.com/Owen-Lin0707/IMLP360/blob/main/02_Logistic%20regression%E5%AF%A6%E6%88%B0.ipynb
+[KNN]https://github.com/Owen-Lin0707/IMLP360/blob/main/03_KNN%E5%AF%A6%E4%BD%9C.ipynb
+[DecisionTree]https://github.com/Owen-Lin0707/IMLP360/blob/main/DecisionTree_RandomForest.ipynb
+[SVM]https://github.com/Owen-Lin0707/IMLP360/blob/main/SVM%E5%AF%A6%E6%88%B0.ipynb
